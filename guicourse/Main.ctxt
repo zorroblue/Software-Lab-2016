@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ printMenu()
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=course\ participant
+comment10.target=void\ addParticipant(Course,\ Participant)
+comment11.params=course
+comment11.target=void\ displayParticipants(Course)
+comment2.params=
+comment2.target=Participant\ inputParticipant()
+comment3.params=
+comment3.target=Course\ inputCourse()
+comment4.params=facultyName
+comment4.target=Faculty\ inputFaculty(java.lang.String)
+comment5.params=course
+comment5.target=Course\ addCourse(Course)
+comment5.text=\ public\ Course\ createCourseObject()\ //returns\ a\ course\ object\ based\ on\ user\ input\ values\n\ \ \ \ {\n\ \ \ \ \ \ \ \ Scanner\ scanner\=new\ Scanner(System.in);\n
+comment6.params=name
+comment6.target=Course\ getCourseByName(java.lang.String)
+comment7.params=name
+comment7.target=Faculty\ getFacultyByName(java.lang.String)
+comment8.params=name
+comment8.target=Participant\ getParticipantByName(java.lang.String)
+comment9.params=
+comment9.target=void\ displayAllCourses()
+numComments=12

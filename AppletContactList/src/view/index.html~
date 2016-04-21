@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>
+Contact list
+</title>
+<body>
+<applet code=MainFrame   width="700" height="450">
+</applet>
+</body>
+</html>

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=courses\ faculty\ participants
+comment0.target=void\ writeToFile(java.util.HashSet,\ java.util.HashSet,\ java.util.HashSet)
+comment1.params=courses\ faculty\ participants
+comment1.target=void\ readObjectsFromFile(java.util.HashSet,\ java.util.HashSet,\ java.util.HashSet)
+numComments=2
